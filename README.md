@@ -89,7 +89,7 @@ This Contact Management System is a full-stack web application designed to help 
   - `/src`: React components and TypeScript files
   - `/public`: Static assets
 
-## How Each Part of the App Works
+## How it works
 
 ### Backend
 
